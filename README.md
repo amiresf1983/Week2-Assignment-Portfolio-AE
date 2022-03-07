@@ -25,7 +25,7 @@ the project will be approved only if it meets these criteria below:
 
 
 ## Webpage Appearance:
-![Proffessional Portfolio](https://github.com/amiresf1983/Week1-Refactoring-AE/blob/main/assets/images/01-html-css-git-homework-demo.png)
+![Proffessional Portfolio](https://github.com/amiresf1983/Week2-Assignment-Portfolio-AE/edit/main/snapshot.png)
 
 ## Useful Github links:
 - https://amiresf1983.github.io/Week2-Assignment-Portfolio-AE/
