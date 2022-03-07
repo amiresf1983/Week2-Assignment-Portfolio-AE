@@ -25,7 +25,7 @@ the project will be approved only if it meets these criteria below:
 
 
 ## Webpage Appearance:
-![Proffessional Portfolio](https://github.com/amiresf1983/Week2-Assignment-Portfolio-AE/edit/main/snapshot.png)
+![Proffessional Portfolio](https://github.com/amiresf1983/Week2-Assignment-Portfolio-AE/edit/main/liverpool1.jpg)
 
 ## Useful Github links:
 - https://amiresf1983.github.io/Week2-Assignment-Portfolio-AE/
